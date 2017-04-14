@@ -22,3 +22,19 @@ url: http://yourdomain.com
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "concerts"
+    values:
+      layout: "concert"
+      concertDate:
+      location:
+      group:
+      address:
+      eventbriteId:
+      thumbnail:
+      feature:
+      foodPic:
