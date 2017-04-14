@@ -30,11 +30,11 @@ defaults:
       type: "concerts"
     values:
       layout: "concert"
-      concertDate:
+      concert_date:
       location:
       group:
       address:
-      eventbriteId:
+      eventbrite_id:
       thumbnail:
       feature:
-      foodPic:
+      food_pic:
