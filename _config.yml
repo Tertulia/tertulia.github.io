@@ -17,14 +17,14 @@ defaults:
     type: concerts
   values:
     layout: concert
-    concertDate: 
+    concert_date: 
     location: 
     group: 
     address: 
-    eventbriteId: 
+    eventbrite_id: 
     thumbnail: 
     feature: 
-    foodPic: 
+    food_pic: 
 email: your-email@domain.com
 description: 'Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
@@ -36,19 +36,3 @@ url: http://yourdomain.com
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "concerts"
-    values:
-      layout: "concert"
-      concert_date:
-      location:
-      group:
-      address:
-      eventbrite_id:
-      thumbnail:
-      feature:
-      food_pic:
