@@ -2,7 +2,7 @@
 title: Sebastien Gingras
 instrument: Cello
 artist_image: "/uploads/tbd.jpg"
-concert:
+concert: 
 website: http://bfy.tw/7EnW
 ---
 

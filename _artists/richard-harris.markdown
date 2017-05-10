@@ -2,7 +2,7 @@
 title: Richard Harris
 instrument: Trombone
 artist_image: "/uploads/richard-harris-thumbnail.jpg"
-concert:
+concert: 
 website: http://bfy.tw/7EnI
 ---
 
