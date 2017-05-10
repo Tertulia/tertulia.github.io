@@ -1,8 +1,8 @@
 ---
 title: Jonathan Vinocour
 instrument: Viola
-headshot: "/img/artists/jonathan-vinocour-thumbnail.jpg"
-tertulia: oct2016
+artist_image: "/uploads/jonathan-vinocour-thumbnail.jpg"
+concert:
 website: http://bfy.tw/7Emw
 ---
 

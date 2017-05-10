@@ -1,8 +1,8 @@
 ---
 title: Paul Murphy
 instrument: Trumpet
-headshot: "/img/artists/paul-murphy-thumbnail.jpg"
-tertulia: sept2016
+artist_image: "/uploads/paul-murphy-thumbnail.jpg"
+concert:
 website: http://bfy.tw/7EnG
 ---
 

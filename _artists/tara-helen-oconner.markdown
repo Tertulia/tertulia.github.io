@@ -1,8 +1,8 @@
 ---
 title: Tara Helen O'Connor
 instrument: Flute
-headshot: "/img/artists/tara-oconner-thumbnail.jpg"
-tertulia: nov2016
+artist_image: "/uploads/tara-oconner-thumbnail.jpg"
+concert:
 website: http://bit.ly/1s5FOfW
 ---
 

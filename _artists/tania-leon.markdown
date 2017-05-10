@@ -1,8 +1,8 @@
 ---
 title: Tania Leon
 instrument: Composer
-headshot: "/img/artists/tania-leon-thumbnail.jpg"
-tertulia: nov2016
+artist_image: "/uploads/tania-leon-thumbnail.jpg"
+concert:
 website: http://www.tanialeon.com/
 ---
 

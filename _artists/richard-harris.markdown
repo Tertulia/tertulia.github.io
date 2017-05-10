@@ -1,8 +1,8 @@
 ---
 title: Richard Harris
 instrument: Trombone
-headshot: "/img/artists/richard-harris-thumbnail.jpg"
-tertulia: sept2016
+artist_image: "/uploads/richard-harris-thumbnail.jpg"
+concert:
 website: http://bfy.tw/7EnI
 ---
 

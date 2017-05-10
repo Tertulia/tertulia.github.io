@@ -1,8 +1,8 @@
 ---
 title: Ian Swensen
 instrument: Violin
-headshot: "/img/artists/ian-swensen-thumbnail.jpg"
-tertulia: may2016
+artist_image: "/uploads/ian-swensen-thumbnail.jpg"
+concert:
 website: http://bfy.tw/7Enm
 ---
 

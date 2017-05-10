@@ -1,8 +1,8 @@
 ---
 title: Todd Palmer
 instrument: Clarinet
-headshot: "/img/artists/todd-palmer-thumbnail.jpg"
-tertulia: nov2016
+artist_image: "/uploads/todd-palmer-thumbnail.jpg"
+concert:
 website: http://lmgtfy.com/?q=todd+palmer+clarinet
 ---
 

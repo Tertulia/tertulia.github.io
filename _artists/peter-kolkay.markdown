@@ -1,8 +1,8 @@
 ---
 title: Peter Kolkay
 instrument: Bassoon
-headshot: "/img/artists/peter-kolkay-thumbnail.jpg"
-tertulia: nov2016
+artist_image: "/uploads/peter-kolkay-thumbnail.jpg"
+concert:
 website: http://lmgtfy.com/?q=Peter+Kolkay%2C+bassoon
 ---
 
