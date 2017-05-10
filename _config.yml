@@ -1,5 +1,5 @@
 ---
-title: Your awesome title
+title: Tertulia NYC
 timezone: UTC
 collections:
   concerts:
@@ -26,13 +26,13 @@ defaults:
     feature: 
     food_pic: 
 email: your-email@domain.com
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: 'Tertulia is a chamber music series that presents concerts in restaurants,
+  in an atmosphere that combines lively conversation and dining with the opportunity
+  to hear some of the greatest performers of our time.
 
 '
-baseurl: ''
+baseurl: 
 url: http://yourdomain.com
-twitter_username: jekyllrb
-github_username: jekyll
+twitter_username: 
+github_username: Tertulia
 markdown: kramdown
